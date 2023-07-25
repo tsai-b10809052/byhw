@@ -1,8 +1,5 @@
 jicjoj;idc
 scknsckn
 65tretr
-<<<<<<< HEAD
 [[[[[
-=======
-iuykjkjg
->>>>>>> refs/remotes/Test/main
+
